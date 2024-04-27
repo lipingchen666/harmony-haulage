@@ -104,7 +104,7 @@ function CarouselSlide() {
             <div className="text-center text-gray-500">
                 <img
                     className="mx-auto mb-4 h-36 w-36 rounded-lg"
-                    src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png"
+                    src="/Larry.jpg"
                     alt="Jese Avatar"
                 />
                 <a href="#">
