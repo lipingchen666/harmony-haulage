@@ -16,7 +16,7 @@ export default function ContactUsSection() {
                             <div className="flex-1">
                                 <p className="mb-3 text-gray-500 dark:text-gray-400">
                                     Physical Address
-                                    <br />881 Concorde circle  , Linthicum heights md 21090
+                                    <br />881 Concorde circle  , Linthicum heights MD 21090
                                 </p>
                                 <ul className="space-y-3 text-gray-500 dark:text-gray-400">
                                     <li className="flex items-center">
@@ -57,7 +57,9 @@ export default function ContactUsSection() {
                             <div className="flex-1">
                                 <p className="mb-3 text-gray-500 dark:text-gray-400">
                                     Mailing Address
-                                    <br />881 Concorde circle  , Linthicum heights md 21090
+                                    <br />515 S Camp Meade road
+                                    PO Box 53
+                                    Linthicum heights MD 21090
                                 </p>
                                 <ul className="space-y-3 text-gray-500 dark:text-gray-400">
                                     <li className="flex items-center">
@@ -103,8 +105,8 @@ export default function ContactUsSection() {
                     <Footer.Brand
                         alt="Flowbite logo"
                         href="https://flowbite.com"
-                        name="Flowbite"
-                        src="https://flowbite.com/docs/images/logo.svg"
+                        name="Harmony Haulage"
+                        src="/harmony-logo.png"
                         className="mb-4 sm:mb-4 lg:mb-0"
                     />
                     <Footer.Copyright

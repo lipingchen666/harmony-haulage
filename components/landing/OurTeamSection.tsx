@@ -113,6 +113,8 @@ function CarouselSlide() {
                     </h5>
                 </a>
                 <span>Principal Fleet Manager</span>
+                <br />
+                <span>CDL-B</span>
                 <div className="mt-4 flex justify-center space-x-4">
                     <a
                         href="#"

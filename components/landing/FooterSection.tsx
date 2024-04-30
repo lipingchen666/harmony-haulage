@@ -6,9 +6,9 @@ export default function FooterSection() {
             <div className="mx-auto flex max-w-screen-xl flex-col items-center p-4 text-center md:p-8 lg:p-10 [&>div]:w-fit">
                 <Footer.Brand
                     alt="Flowbite logo"
-                    href="https://flowbite.com"
+                    href="/"
                     name="Flowbite"
-                    src="https://flowbite.com/docs/images/logo.svg"
+                    src="/harmony-logo.png"
                 />
                 <p className="my-6 text-gray-500 dark:text-gray-400">
                     Open-source library of over 400+ web components and interactive
