@@ -5,10 +5,10 @@ export default function FooterSection() {
         <Footer className="rounded-none">
             <div className="mx-auto flex max-w-screen-xl flex-col items-center p-4 text-center md:p-8 lg:p-10 [&>div]:w-fit">
                 <Footer.Brand
-                    alt="Flowbite logo"
+                    alt="Harmony Haulage logo"
                     href="/"
-                    name="Flowbite"
-                    src="/harmony-logo.png"
+                    name="Harmony Haulage"
+                    src="/hh-logo6-trimmed.png"
                 />
                 <p className="my-6 text-gray-500 dark:text-gray-400">
                     Open-source library of over 400+ web components and interactive

@@ -5,15 +5,17 @@ export default function HeaderWithSubNavbar() {
         <header>
             <Navbar className="dark:bg-gray-800">
                 <Navbar.Brand href="/">
-                    <Image
-                        src="/harmony-logo.png"
-                        alt="Flowbite Logo"
-                        height={50}
-                        width={50}
-                    />
-                    <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white text-harmony-purple">
+                    <div className="flex space-x-2">
+                        <Image
+                            src="/hh-logo6-trimmed.png"
+                            alt="Flowbite Logo"
+                            height={30}
+                            width={25}
+                        />
+                        <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white text-harmony-purple">
                         Harmony Haulage
                     </span>
+                    </div>
                 </Navbar.Brand>
                 <div className="flex items-center">
                     <a
